@@ -3,6 +3,7 @@
 ## Coursera Getting and Cleaning Data Course Project
 ## Sanling Song
 
+
 # runAnalysis.r File Description:
 
 # This script will perform the following steps on the UCI HAR Dataset downloaded from 
